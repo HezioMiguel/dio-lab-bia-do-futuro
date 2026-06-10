@@ -7,7 +7,7 @@
 
 
 ### Solução
-> uma ia de pesquisa de dados das açoes diariamente mostrando o fundo e o topo da ação em diferentes medidas de preço(semana, mes,ano)
+> uma ia de pesquisa de dados das açoes diariamente mostrando o fundo e o topo da ação em diferentes medidas de preço (semana, mes,ano) , o P/VP (Preço/Valor Patrimonial) e dando alertas para oportunidades levando em conta esses dados
 
 [Sua descrição aqui]
 
