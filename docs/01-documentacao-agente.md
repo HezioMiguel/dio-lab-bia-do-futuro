@@ -3,19 +3,17 @@
 ## Caso de Uso
 
 ### Problema
-> Qual problema financeiro seu agente resolve?
+> hoje em dia tem varias formas de analisar uma ação, mas é muito dificil analisar uma grande quantidade diariamente para escolher em quais investir
 
-[Sua descrição aqui]
 
 ### Solução
-> Como o agente resolve esse problema de forma proativa?
+> uma ia de pesquisa de dados das açoes diariamente mostrando o fundo e o topo da ação em diferentes medidas de preço(semana, mes,ano)
 
 [Sua descrição aqui]
 
 ### Público-Alvo
 > Quem vai usar esse agente?
 
-[Sua descrição aqui]
 
 ---
 
