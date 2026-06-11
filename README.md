@@ -1,4 +1,4 @@
-# 🤖 Agente Financeiro Inteligente com IA Generativa (em planejamento)
+# 🤖 Agente Financeiro Inteligente com IA Generativa (em mudanças levando em conta a base do curso da DIO.me)
 
 ## Contexto
 
